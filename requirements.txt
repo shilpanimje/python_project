@@ -1,0 +1,13 @@
+boto3
+sqlalchemy
+pynamodb
+-i https://pypi.theorchard.io/pypi/
+
+blinker==1.4
+Flask==0.10
+newrelic==2.60.0.46
+oto==1.0.1
+owslogger==0.1.1
+owsrequest==0.4.0
+raven==5.10
+python-dotenv==0.6.4
